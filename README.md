@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bdev0.contact@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: love coding for fun
+- ⚡ Fun fact: love coding 
 
 <!---
 B-Dev0/B-Dev0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
