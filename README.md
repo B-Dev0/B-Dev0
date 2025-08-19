@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @B-Dev0
 - 👀 I’m interested in JS
 - 🌱 I’m currently learning PY
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bdev0.contact@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: love coding 
 
 <!---
